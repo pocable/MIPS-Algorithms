@@ -1,5 +1,5 @@
 # MIPS Algorithms
-Multiple algorithms implemented in MIPS. Please message me if you use them in your projects :).
+Multiple algorithms implemented in MIPS. Please open an issue if you use any of these algorithms. Thanks!
 
 ## Algorithms
 ### Searching
