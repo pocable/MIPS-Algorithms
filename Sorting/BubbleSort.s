@@ -8,7 +8,7 @@ main:
   sw $ra, 0($sp)                    # Store return address into memory
   la $a0, array                     # Load array into $a0
   lw $a1, length                    # Load length into $a1
-  jal bubbleSort                    # Binary search the array
+  jal bubbleSort                    # Bubble sort the array
   la $a0, array                     # Reload $a0
   lw $a1, length                    # Reload length
   jal printArray                    # Print the array

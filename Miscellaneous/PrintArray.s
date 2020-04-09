@@ -8,7 +8,7 @@ main:
   sw $ra, 0($sp)                # Store return address into memory
   la $a0, array                 # Load array into $a0
   lw $a1, length                # Load length into $a1
-  jal printArray                # Binary search the array
+  jal printArray                # Print the array elements
   lw $ra, 0($sp)                # Restore return address
   jr $ra                        # Return
 

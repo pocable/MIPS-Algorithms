@@ -9,3 +9,4 @@ Multiple algorithms implemented in MIPS. Please open an issue if you use any of 
 * [Bubble Sort](https://github.com/Pocable/MIPS-Algorithms/blob/master/Sorting/BubbleSort.s)
 ### Miscellaneous
 * [Print Array](https://github.com/Pocable/MIPS-Algorithms/blob/master/Miscellaneous/PrintArray.s)
+* [For Each](https://github.com/Pocable/MIPS-Algorithms/blob/master/Miscellaneous/ForEach.s)
